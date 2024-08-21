@@ -66,7 +66,7 @@ const MeghaMenu = () => {
           {
             className: "text-[#f6ede6]  text-3xl font-bold",
           },
-          "RioTinto"
+          "Megha Menu"
         ),
         /*#__PURE__*/ React.createElement(
           "div",
